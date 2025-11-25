@@ -14,7 +14,7 @@ export default function Hero() {
         transition={{ duration: 0.8 }}
       >
         <Image
-          src="/profile.jpg"
+          src="/dddddddddddp.jpg"
           alt="Profile"
           width={160}
           height={160}
